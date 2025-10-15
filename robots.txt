@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lorenapeerez.github.io/2asirAFH25/sitemap.xml
